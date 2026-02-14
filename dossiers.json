@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "UNKN-HO-91050-00",
+    "type": "personnel",
+    "name": "Honyar Jafar",
+    "alias": "",
+    "status": "ACTIVE",
+    "aff": "",
+    "role": "",
+    "rank": "",
+    "gender": "Unknown",
+    "seen": "",
+    "gear": "",
+    "bio": "",
+    "img": "",
+    "stats": {
+      "dob": "",
+      "height": "",
+      "weight": "",
+      "build": "",
+      "hair": "",
+      "eyes": "",
+      "blood": "",
+      "nat": ""
+    }
+  }
+]
