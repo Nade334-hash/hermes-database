@@ -1,27 +1,27 @@
 [
   {
     "id": "UNKN-HO-91050-00",
-    "type": "personnel",
+    "type": "Person Of Interest",
     "name": "Honyar Jafar",
-    "alias": "",
+    "alias": "Dabab",
     "status": "ACTIVE",
-    "aff": "",
-    "role": "",
-    "rank": "",
-    "gender": "Unknown",
+    "aff": "CTG",
+    "role": "قن",
+    "rank": "W-1",
+    "gender": "Male",
     "seen": "",
     "gear": "",
     "bio": "",
     "img": "",
     "stats": {
-      "dob": "",
-      "height": "",
-      "weight": "",
-      "build": "",
-      "hair": "",
-      "eyes": "",
-      "blood": "",
-      "nat": ""
+      "dob": "20-FEB-2005",
+      "height": "150cm / 4'11\"",
+      "weight": "90kg / 198lbs",
+      "build": "Stocky",
+      "hair": "Brown",
+      "eyes": "Brown",
+      "blood": "A POS",
+      "nat": "KRD"
     }
   }
 ]
