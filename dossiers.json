@@ -23,30 +23,5 @@
       "blood": "A POS",
       "nat": "KRD"
     }
-  },
-  {
-    "id": "UOS-LE-28293-00",
-    "type": "personnel",
-    "name": "L",
-    "alias": "LAMB",
-    "status": "ACTIVE",
-    "aff": "UoS",
-    "role": "Accountant",
-    "rank": "",
-    "gender": "Female",
-    "seen": "",
-    "gear": "",
-    "bio": "",
-    "img": "",
-    "stats": {
-      "dob": "27-NOV-2005",
-      "height": "168cm / 5'6\"",
-      "weight": "45kg / 99lbs",
-      "build": "Slender",
-      "hair": "Brown",
-      "eyes": "Brown",
-      "blood": "A POS",
-      "nat": "KRD"
-    }
   }
 ]
