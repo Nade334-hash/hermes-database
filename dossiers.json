@@ -23,30 +23,5 @@
       "blood": "A POS",
       "nat": "KRD"
     }
-  },
-  {
-    "id": "UNKN-TE-23100-00",
-    "type": "personnel",
-    "name": "test",
-    "alias": "",
-    "status": "ACTIVE",
-    "aff": "",
-    "role": "",
-    "rank": "",
-    "gender": "Unknown",
-    "seen": "",
-    "gear": "",
-    "bio": "",
-    "img": "",
-    "stats": {
-      "dob": "",
-      "height": "",
-      "weight": "",
-      "build": "",
-      "hair": "",
-      "eyes": "",
-      "blood": "",
-      "nat": ""
-    }
   }
 ]
