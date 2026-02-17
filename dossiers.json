@@ -48,5 +48,30 @@
       "blood": "",
       "nat": ""
     }
+  },
+  {
+    "id": "UNKN-YA-44464-00",
+    "type": "personnel",
+    "name": "Yasin, Diary",
+    "alias": "KNOAX",
+    "status": "ACTIVE",
+    "aff": "",
+    "role": "",
+    "rank": "",
+    "gender": "Unknown",
+    "seen": "",
+    "gear": "",
+    "bio": "",
+    "img": "",
+    "stats": {
+      "dob": "",
+      "height": "",
+      "weight": "",
+      "build": "",
+      "hair": "",
+      "eyes": "",
+      "blood": "",
+      "nat": ""
+    }
   }
 ]
