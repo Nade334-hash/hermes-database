@@ -1,5 +1,30 @@
 [
   {
+    "id": "ROGU-[R-17436-00",
+    "type": "criminal",
+    "name": "[REDACTED] Libra",
+    "alias": "Libra, Raven",
+    "status": "UNKNOWN",
+    "aff": "Rogue",
+    "role": "Covert Infiltration / Close-Quarters Assassin",
+    "rank": "",
+    "gender": "Male",
+    "seen": "",
+    "gear": "",
+    "bio": "",
+    "img": "",
+    "stats": {
+      "dob": "1998",
+      "height": "178cm",
+      "weight": "",
+      "build": "",
+      "hair": "",
+      "eyes": "",
+      "blood": "",
+      "nat": "DNK"
+    }
+  },
+  {
     "id": "EX-U-CO-10923-00",
     "type": "Person Of Interest",
     "name": "Collins,Samuel",
