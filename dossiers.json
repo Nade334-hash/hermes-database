@@ -50,6 +50,31 @@
     }
   },
   {
+    "id": "ECAF-RO-59632-00",
+    "type": "personnel",
+    "name": "Rodriguez, Houston",
+    "alias": "Hugh",
+    "status": "ACTIVE",
+    "aff": "ECAF - Entity Corps",
+    "role": "Chief Director - CEO",
+    "rank": "Captain O-3",
+    "gender": "Male",
+    "seen": "First Seen: 2031, Operation Unknown Entity (Team 11 Lead).\nLast Seen: 2047, Exfiltrating Entity Corp HQ via private VTOL.",
+    "gear": "Tactical Preference: Sterile kits. He avoids the \"3-line\" branding used by his subordinates, preferring bespoke, unbranded high-tier ballistic protection.\n\nThe \"Will\" Inscription: Intelligence suggests Rodriguez carries a |customized .45 ACP sidearm| with internal engravings dedicated to ||his brother.||",
+    "bio": "*Summary:*\nRodriguez is the primary architect of the current global security landscape. Following a decorated tenure in the USMC and Navy SEALs, his trajectory shifted violently after the Ukraine Incident. ||The confirmed arrival of his brother, Will, in Ukraine|| for treatment and his subsequent \"disappearance\" served as the catalyst for Rodriguez’s disillusionment with NATO’s bureaucratic limitations.\n\n*Psychological Profile:*\nExhibits |\"Clinical Detachment.\"| He is noted for his \"surgical\" approach to high-intensity conflict, a trait first recognized by Major Marcus Novak. Rodriguez no longer views conflict as a matter of ideology, but as a series of logistics and leverage. He is the ghost in the machine of the ENTICORE development, using his grief for his brother to fuel a global hunt for the \"Architects\" of the medical disappearance.",
+    "img": "",
+    "stats": {
+      "dob": "12 SEP 1993",
+      "height": "185cm / 6'1\"",
+      "weight": "98kg / 216lbs",
+      "build": "Muscular",
+      "hair": "Grey",
+      "eyes": "Brown",
+      "blood": "A NEG",
+      "nat": "USA"
+    }
+  },
+  {
     "id": "UNKN-YA-44464-00",
     "type": "personnel",
     "name": "Yasin, Diary",
