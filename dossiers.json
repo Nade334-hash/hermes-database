@@ -1,5 +1,30 @@
 [
   {
+    "id": "ROGU-LS-63560-00",
+    "type": "personnel",
+    "name": "[REDACTED] Libra",
+    "alias": "Libra, Raven",
+    "status": "ACTIVE",
+    "aff": "Rogue",
+    "role": "Covert Infiltration / Close-Quarters Assassin",
+    "rank": "",
+    "gender": "Male",
+    "seen": "",
+    "gear": "",
+    "bio": "",
+    "img": "",
+    "stats": {
+      "dob": "1998",
+      "height": "178cm / 5'10\"",
+      "weight": "",
+      "build": "Athletic",
+      "hair": "",
+      "eyes": "Blue",
+      "blood": "",
+      "nat": "DNK"
+    }
+  },
+  {
     "id": "EX-U-CO-10923-00",
     "type": "Person Of Interest",
     "name": "Collins,Samuel",
@@ -22,31 +47,6 @@
       "eyes": "Brown",
       "blood": "B POS",
       "nat": "USA"
-    }
-  },
-  {
-    "id": "ROGU-LS-63560-00",
-    "type": "personnel",
-    "name": "LS",
-    "alias": "",
-    "status": "ACTIVE",
-    "aff": "ROGUE",
-    "role": "",
-    "rank": "",
-    "gender": "Unknown",
-    "seen": "",
-    "gear": "",
-    "bio": "",
-    "img": "",
-    "stats": {
-      "dob": "",
-      "height": "",
-      "weight": "",
-      "build": "",
-      "hair": "",
-      "eyes": "",
-      "blood": "",
-      "nat": ""
     }
   },
   {
