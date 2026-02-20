@@ -126,27 +126,27 @@
   },
   {
     "id": "UNKN-YA-44464-00",
-    "type": "personnel",
+    "type": "Person Of Interest",
     "name": "Yasin, Diary",
     "alias": "KNOAX",
     "status": "ACTIVE",
-    "aff": "",
-    "role": "",
+    "aff": "Rogue",
+    "role": "Sniper",
     "rank": "",
-    "gender": "Unknown",
-    "seen": "",
+    "gender": "Male",
+    "seen": "poli 1\npere",
     "gear": "",
     "bio": "",
     "img": "",
     "stats": {
-      "dob": "",
-      "height": "",
-      "weight": "",
-      "build": "",
-      "hair": "",
-      "eyes": "",
-      "blood": "",
-      "nat": ""
+      "dob": "11 MAY 2004",
+      "height": "178cm / 5'10\"",
+      "weight": "99.9kg / 220lbs",
+      "build": "Heavy",
+      "hair": "Black",
+      "eyes": "Brown",
+      "blood": "O POS",
+      "nat": "KRD"
     }
   }
 ]
