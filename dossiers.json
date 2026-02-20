@@ -25,31 +25,6 @@
     }
   },
   {
-    "id": "UNKN-HO-91050-00",
-    "type": "Person Of Interest",
-    "name": "Honyar Ja'far",
-    "alias": "هین",
-    "status": "ACTIVE",
-    "aff": "CTG",
-    "role": "",
-    "rank": "W-1",
-    "gender": "Male",
-    "seen": "",
-    "gear": "",
-    "bio": "",
-    "img": "",
-    "stats": {
-      "dob": "20-FEB-2005",
-      "height": "176cm / 5'9\"",
-      "weight": "90kg / 198lbs",
-      "build": "Stocky",
-      "hair": "Brown",
-      "eyes": "Brown",
-      "blood": "A POS",
-      "nat": "KRD"
-    }
-  },
-  {
     "id": "UNKN-OM-64401-00",
     "type": "personnel",
     "name": "Omed, Akam",
