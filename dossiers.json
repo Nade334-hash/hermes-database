@@ -50,6 +50,31 @@
     }
   },
   {
+    "id": "ROGU-LS-63560-00",
+    "type": "personnel",
+    "name": "LS",
+    "alias": "",
+    "status": "ACTIVE",
+    "aff": "ROGUE",
+    "role": "",
+    "rank": "",
+    "gender": "Unknown",
+    "seen": "",
+    "gear": "",
+    "bio": "",
+    "img": "",
+    "stats": {
+      "dob": "",
+      "height": "",
+      "weight": "",
+      "build": "",
+      "hair": "",
+      "eyes": "",
+      "blood": "",
+      "nat": ""
+    }
+  },
+  {
     "id": "UNKN-OM-64401-00",
     "type": "personnel",
     "name": "Omed, Akam",
