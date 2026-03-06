@@ -145,29 +145,5 @@
       "blood": "O POS",
       "nat": "KRD"
     }
-  },
-  {
-    "id": "UNKN-QW-43531-00",
-    "type": "personnel",
-    "classification": "AUTHORIZED",
-    "name": "qwd",
-    "alias": "",
-    "status": "ACTIVE",
-    "aff": "",
-    "role": "",
-    "rank": "",
-    "gender": "Unknown",
-    "intel": "^Physical Description^\n\n^Body Marks^\n\n^Biography^\n\n^Last Seen^\nhsabc\n^Medical Evaluation^\n\n^Psychological Profile^\n\n^Other Intel^\n",
-    "img": "",
-    "stats": {
-      "dob": "",
-      "height": "",
-      "weight": "",
-      "build": "",
-      "hair": "",
-      "eyes": "",
-      "blood": "",
-      "nat": ""
-    }
   }
 ]
