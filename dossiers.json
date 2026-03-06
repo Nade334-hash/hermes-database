@@ -124,7 +124,8 @@
   },
   {
     "id": "UNKN-YA-44464-00",
-    "type": "Person Of Interest",
+    "type": "personnel",
+    "classification": "AUTHORIZED",
     "name": "Yasin, Diary",
     "alias": "KNOAX",
     "status": "ACTIVE",
@@ -132,9 +133,7 @@
     "role": "Sniper",
     "rank": "",
     "gender": "Male",
-    "seen": "poli 1\npere",
-    "gear": "",
-    "bio": "",
+    "intel": "",
     "img": "",
     "stats": {
       "dob": "11 MAY 2004",
