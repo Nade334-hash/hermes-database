@@ -1,6 +1,6 @@
 [
   {
-    "id": "ROGU-LS-63560-00",
+    "id": "UETF-LS-63560-00",
     "type": "criminal",
     "classification": "AUTHORIZED",
     "name": "Libra",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "id": "EX-U-CO-10923-00",
+    "id": "UETF-CS-10923-00",
     "type": "Person Of Interest",
     "classification": "PUBLIC",
     "name": "Collins, Samuel",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "id": "UNKN-OM-64401-00",
+    "id": "ECAF-OA-64401-00",
     "type": "personnel",
     "name": "Omed, Akam",
     "alias": "ZEPP",
@@ -73,7 +73,7 @@
     }
   },
   {
-    "id": "ECAF-RO-59632-00",
+    "id": "ECAF-RH-59632-00",
     "type": "personnel",
     "classification": "CLASSIFIED",
     "name": "Rodriguez, Hugh",
@@ -97,7 +97,7 @@
     }
   },
   {
-    "id": "KAOP-SE-14686-00",
+    "id": "KAOP-SC-14686-00",
     "type": "criminal",
     "name": "Serrey, Cham",
     "alias": "Ta Thom (The Elder)",
@@ -122,7 +122,7 @@
     }
   },
   {
-    "id": "UNKN-YA-44464-00",
+    "id": "ECAF-YD-44464-00",
     "type": "personnel",
     "classification": "AUTHORIZED",
     "name": "Yasin, Diary",
