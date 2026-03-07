@@ -154,7 +154,7 @@
     "role": "",
     "rank": "",
     "gender": "Unknown",
-    "intel": "^Physical Description^\n\n^Body Marks^\n\n^Biography^\n\n^Last Seen^\n\n^Medical Evaluation^\n\n^Psychological Profile^\n\n^Other Intel^\n",
+    "intel": "",
     "img": "",
     "stats": {
       "dob": "",
