@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "UNKN-TE-38292-00",
+    "type": "personnel",
+    "classification": "AUTHORIZED",
+    "name": "Personnel",
+    "alias": "Test",
+    "status": "ACTIVE",
+    "aff": "",
+    "role": "",
+    "rank": "",
+    "gender": "Male",
+    "intel": "^Physical Description^\n\n^Body Marks^\n\n^Biography^\n\n^Last Seen^\n\n^Medical Evaluation^\n\n^Psychological Profile^\n\n^Other Intel^\n",
+    "img": "",
+    "stats": {
+      "dob": "",
+      "height": "",
+      "weight": "",
+      "build": "",
+      "hair": "",
+      "eyes": "",
+      "blood": "",
+      "nat": ""
+    }
+  }
+]
