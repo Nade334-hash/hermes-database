@@ -1,29 +1,5 @@
 [
   {
-    "id": "UNKN-TE-19268-00",
-    "type": "Person Of Interest",
-    "classification": "AUTHORIZED",
-    "name": "POI",
-    "alias": "Test",
-    "status": "ACTIVE",
-    "aff": "",
-    "role": "",
-    "rank": "",
-    "gender": "Unknown",
-    "intel": "^Physical Description^\n\n^Body Marks^\n\n^Biography^\n\n^Last Seen^\n\n^Medical Evaluation^\n\n^Psychological Profile^\n\n^Other Intel^\n",
-    "img": "",
-    "stats": {
-      "dob": "",
-      "height": "",
-      "weight": "",
-      "build": "",
-      "hair": "",
-      "eyes": "",
-      "blood": "",
-      "nat": ""
-    }
-  }
-{
     "id": "UETF-CS-10923-00",
     "type": "Person Of Interest",
     "classification": "PUBLIC",
