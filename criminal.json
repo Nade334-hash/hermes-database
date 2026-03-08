@@ -1,29 +1,5 @@
 [
   {
-    "id": "UNKN-TE-12610-00",
-    "type": "criminal",
-    "classification": "AUTHORIZED",
-    "name": "Criminal",
-    "alias": "test",
-    "status": "ACTIVE",
-    "aff": "",
-    "role": "",
-    "rank": "",
-    "gender": "Unknown",
-    "intel": "^Physical Description^\n\n^Body Marks^\n\n^Biography^\n\n^Last Seen^\n\n^Medical Evaluation^\n\n^Psychological Profile^\n\n^Other Intel^\n",
-    "img": "",
-    "stats": {
-      "dob": "",
-      "height": "",
-      "weight": "",
-      "build": "",
-      "hair": "",
-      "eyes": "",
-      "blood": "",
-      "nat": ""
-    }
-  },
-  {
     "id": "KAOP-TA-39250-00",
     "type": "criminal",
     "classification": "AUTHORIZED",
