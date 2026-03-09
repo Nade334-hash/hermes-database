@@ -34,5 +34,17 @@
     "lat": 34.81182669989525,
     "lng": 45.07669147632574,
     "hash": "SQ-074416-16"
+  },
+  {
+    "id": "MKR-1773080768004",
+    "name": "s",
+    "aff": "unknown",
+    "domain": "ground",
+    "type": "Water",
+    "desc": "",
+    "classification": "PUBLIC",
+    "lat": 26.12777649986311,
+    "lng": 35.581058970970474,
+    "hash": "QP-C6291D-71"
   }
 ]
