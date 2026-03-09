@@ -1,17 +1,5 @@
 [
   {
-    "id": "MKR-1773053777070",
-    "name": "Vessel",
-    "aff": "hostile",
-    "domain": "sub",
-    "type": "Sea Vessel",
-    "desc": "",
-    "classification": "PUBLIC",
-    "lat": 33.853509100593044,
-    "lng": 32.173101474779806,
-    "hash": "RP-E3D52D-33"
-  },
-  {
     "id": "MKR-1773081335540",
     "name": "wvd",
     "aff": "hostile",
