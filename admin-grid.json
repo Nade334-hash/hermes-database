@@ -10,5 +10,17 @@
     "lat": 33.59882369200471,
     "lng": 46.7325469931467,
     "hash": "RQ-DA6600-82"
+  },
+  {
+    "id": "MKR-1773053777070",
+    "name": "Vessel",
+    "aff": "hostile",
+    "domain": "sub",
+    "type": "Sea Vessel",
+    "desc": "",
+    "classification": "PUBLIC",
+    "lat": 33.853509100593044,
+    "lng": 32.173101474779806,
+    "hash": "RP-E3D52D-33"
   }
 ]
