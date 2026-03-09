@@ -22,5 +22,17 @@
     "lat": 33.853509100593044,
     "lng": 32.173101474779806,
     "hash": "RP-E3D52D-33"
+  },
+  {
+    "id": "MKR-1773080069684",
+    "name": "Peepoo",
+    "aff": "neutral",
+    "domain": "ground",
+    "type": "MOB",
+    "desc": "",
+    "classification": "PUBLIC",
+    "lat": 34.81182669989525,
+    "lng": 45.07669147632574,
+    "hash": "SQ-074416-16"
   }
 ]
