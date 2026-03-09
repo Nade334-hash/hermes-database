@@ -46,5 +46,17 @@
     "lat": 26.12777649986311,
     "lng": 35.581058970970474,
     "hash": "QP-C6291D-71"
+  },
+  {
+    "id": "MKR-1773081335540",
+    "name": "wvd",
+    "aff": "hostile",
+    "domain": "ground",
+    "type": "Infantry",
+    "desc": "",
+    "classification": "PUBLIC",
+    "lat": 50.18982893648432,
+    "lng": -85.60940472815814,
+    "hash": "UG-3FED12-90"
   }
 ]
