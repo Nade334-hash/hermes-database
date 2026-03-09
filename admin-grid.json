@@ -12,18 +12,6 @@
     "hash": "RP-E3D52D-33"
   },
   {
-    "id": "MKR-1773080768004",
-    "name": "s",
-    "aff": "unknown",
-    "domain": "ground",
-    "type": "Water",
-    "desc": "",
-    "classification": "PUBLIC",
-    "lat": 26.12777649986311,
-    "lng": 35.581058970970474,
-    "hash": "QP-C6291D-71"
-  },
-  {
     "id": "MKR-1773081335540",
     "name": "wvd",
     "aff": "hostile",
