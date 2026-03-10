@@ -1,29 +1,5 @@
 [
   {
-    "id": "UETF-LS-63560-00",
-    "type": "criminal",
-    "classification": "AUTHORIZED",
-    "name": "",
-    "alias": "Libra",
-    "status": "UNKNOWN",
-    "aff": "Rogue",
-    "role": "Covert Infiltration / Close-Quarters Assassin",
-    "rank": "",
-    "gender": "Male",
-    "intel": "",
-    "img": "",
-    "stats": {
-      "dob": "1998",
-      "height": "178 cm / 5'10\"",
-      "weight": "85 kg / 187 lbs",
-      "build": "Athletic",
-      "hair": "",
-      "eyes": "Blue",
-      "blood": "",
-      "nat": "DNK"
-    }
-  },
-  {
     "id": "KAOP-SC-14686-00",
     "type": "criminal",
     "classification": "PUBLIC",
@@ -45,30 +21,6 @@
       "eyes": "Brown",
       "blood": "O POS",
       "nat": "KHM"
-    }
-  },
-  {
-    "id": "UETF-LS-63560-00",
-    "type": "criminal",
-    "classification": "AUTHORIZED",
-    "name": "",
-    "alias": "Libra",
-    "status": "UNKNOWN",
-    "aff": "Rogue",
-    "role": "Covert Infiltration / Close-Quarters Assassin",
-    "rank": "",
-    "gender": "Male",
-    "intel": "",
-    "img": "",
-    "stats": {
-      "dob": "1998",
-      "height": "178 cm / 5'10\"",
-      "weight": "85 kg / 187 lbs",
-      "build": "Athletic",
-      "hair": "",
-      "eyes": "Blue",
-      "blood": "",
-      "nat": "DNK"
     }
   },
   {
