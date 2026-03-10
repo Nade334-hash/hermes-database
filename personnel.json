@@ -1,29 +1,5 @@
 [
   {
-    "id": "ECAF-OA-64401-00",
-    "type": "personnel",
-    "classification": "AUTHORIZED",
-    "name": "Omed, Akam",
-    "alias": "ZEPP",
-    "status": "KIA",
-    "aff": "",
-    "role": "",
-    "rank": "",
-    "gender": "Unknown",
-    "intel": "",
-    "img": "",
-    "stats": {
-      "dob": "",
-      "height": "",
-      "weight": "",
-      "build": "",
-      "hair": "",
-      "eyes": "",
-      "blood": "",
-      "nat": ""
-    }
-  },
-  {
     "id": "ECAF-RH-59632-00",
     "type": "personnel",
     "classification": "CLASSIFIED",
