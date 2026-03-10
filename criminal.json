@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "UETF-LS-63560-00",
+    "type": "criminal",
+    "classification": "AUTHORIZED",
+    "name": "",
+    "alias": "Libra",
+    "status": "UNKNOWN",
+    "aff": "Rogue",
+    "role": "Covert Infiltration / Close-Quarters Assassin",
+    "rank": "",
+    "gender": "Male",
+    "intel": "",
+    "img": "",
+    "stats": {
+      "dob": "1998",
+      "height": "178 cm / 5'10\"",
+      "weight": "85 kg / 187 lbs",
+      "build": "Athletic",
+      "hair": "",
+      "eyes": "Blue",
+      "blood": "",
+      "nat": "DNK"
+    }
+  },
+  {
+    "id": "KAOP-SC-14686-00",
+    "type": "criminal",
+    "classification": "PUBLIC",
+    "name": "Serrey, Cham",
+    "alias": "Ta Thom (The Elder)",
+    "status": "ACTIVE",
+    "aff": "Kaopisat Group",
+    "role": "Flour Company Executive",
+    "rank": "Faction Leader",
+    "gender": "Male",
+    "intel": "Summary:\nCham Serrey is the foundation of the modern ghost weapon and explosive smuggling network. Operating out of Cambodia—a country characterized by a central alluvial plain surrounded by dense, heavily forested mountains like the Cardamom range—Serrey utilized a legitimate flour distribution company (JJH2+X2R) pinpoint the Kaopisat Group's central compound as a front for (TKG). His network was responsible for the global distribution of firearms, hard plastic/fibre ghost weapons, and the highly volatile \"Ni-Redundant\" explosives.\n\nMay 29th (2031):\nAt 0300 AM, the UETF executed a coordinated raid on suspected TKG hideouts (JJH2+X2R) pinpoint the Kaopisat Group's central compound to arrest Serrey and secure evidence. While Serrey successfully evaded the strike teams, the operation resulted in a catastrophic loss of inventory for TKG, with massive caches of weaponized metal tubes found disguised within flour shipments. Despite his escape and the lack of concrete evidence to finalize his arrest warrant, the raid effectively dismantled his regional monopoly. He is known to be a high-ranking administrator on the digital \"Silk Route\" bidding network.",
+    "img": "",
+    "stats": {
+      "dob": "14 MAR 1978",
+      "height": "170cm / 5'7\"",
+      "weight": "68kg / 150lbs",
+      "build": "Stocky",
+      "hair": "Black",
+      "eyes": "Brown",
+      "blood": "O POS",
+      "nat": "KHM"
+    }
+  }
+]
