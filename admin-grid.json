@@ -10,5 +10,17 @@
     "lat": 35.583911920400126,
     "lng": 45.340022266959664,
     "hash": "SQ-23D464-30"
+  },
+  {
+    "id": "MKR-1773162083395",
+    "name": "Kaopisat Group Compound",
+    "aff": "hostile",
+    "domain": "ground",
+    "type": "MOB",
+    "desc": "Kaopisat Group's central compound directly to the Thma Doun Pov Commune.",
+    "classification": "AUTHORIZED",
+    "lat": 11.632359294823937,
+    "lng": 103.60111498612824,
+    "hash": "OU-AE27B7-21"
   }
 ]
