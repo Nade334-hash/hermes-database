@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "MKR-1773102014231",
+    "name": "LIMA-TANGO",
+    "aff": "neutral",
+    "domain": "ground",
+    "type": "Intel/Op",
+    "desc": "Lewan",
+    "classification": "PUBLIC",
+    "lat": 35.583911920400126,
+    "lng": 45.340022266959664,
+    "hash": "SQ-23D464-30"
+  }
+]
