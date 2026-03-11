@@ -22,5 +22,29 @@
       "blood": "B POS",
       "nat": "USA"
     }
+  },
+  {
+    "id": "NATI-AN-33518-00",
+    "type": "poi",
+    "classification": "AUTHORIZED",
+    "name": "Anton Yuriyovych Kovalov",
+    "alias": "Isotope",
+    "status": "KIA",
+    "aff": "NASU / National Academy of Sciences of Ukraine",
+    "role": "Lead Researcher / Physicist",
+    "rank": "Civilian (Tier-1 High Value Asset)",
+    "gender": "Male",
+    "img": "",
+    "stats": {
+      "dob": "",
+      "height": "180cm / 5'11\"",
+      "weight": "76kg / 168lbs",
+      "build": "Slender",
+      "hair": "Brown",
+      "eyes": "Hazel",
+      "blood": "",
+      "nat": "UKR"
+    },
+    "intel": "^^GEAR / MARKS^^\n*Visual Aid:* Wears |vintage wire-rimmed glasses| (left lens slightly cracked in footage).\n*Marks:* Small surgical |scar on right wrist| (carpal tunnel surgery). No known tattoos.\n*Attire (Last Seen):* Grey wool trench coat, checkered button-down shirt, navy trousers, brown leather satchel (contents likely classified research notes).\n*Tech:* Known to carry ||an encrypted hard drive (IronKey)|| on a lanyard around his neck. It was not visible in the security footage, suggesting it may have been confiscated by \"Ash\".\n\n^^LATEST INTEL (SEEN)^^\n^First Sighted:^\n21:00 hours, Lviv International Airport (LWO), Terminal A Drop-off.\nSubject exited a taxi alone.\n\n^Last Sighted:^\n23:15 hours, LWO Tarmac, Gate 04 (Private Aviation Sector).\n|Status: KIDNAPPED / IN TRANSIT.|\n*Context:* Subject was flagged by facial recognition while being escorted across the tarmac by |two hostile entities (Suspect 1: \"Ash\"; Suspect 2: Unidentified Asian Male/Poss. ||Dmitry Han||)|. Subject appeared disoriented, possibly sedated. Boarded an unmarked Gulfstream G650. Transponder was disabled immediately after takeoff.\n\n^^BIOGRAPHY^^\nAnton Kovalov is a generational intellect in the field of condensed matter physics. A prodigy from Kharkiv, he completed his doctorate at age 22. His early career was marked by collaborative fellowships at CERN and the Max Planck Institute, where he was lauded for his work on particle stability.\n\nIn 2028, Kovalov returned to Kyiv to lead a specialized research unit at NASU. His focus shifted to high-yield energy states in liquid vacuums. His 2029 publication on the subject was controversial; while mathematically sound, critics argued the physical application was impossible. Kovalov vehemently defended the work before abruptly withdrawing from public academic life in late 2030.\n\n^^POST-MORTEM SUMMARY^^\nProfessor Anton Kovalov was a distinguished physicist whose theoretical work on |Aerosolized State Dynamics| became the unintended catalyst for a new generation of terror weapons.\n\nIn late May 2031, NATO forces interdicted a shipment of IEDs that utilized a binary compound usually considered inert. Analysis suggested the compounds could only be weaponized under extreme, specific pressure conditions — physics that Kovalov had unknowingly perfected in his 2029 papers on ||\"condensed matter stability\"|| alongside other INTEL found at the scene, labeled as E.N.T.I — believed to be an abbreviation of a bio-hazard compound used in the thermobaric bombs.\n\nKovalov was abducted on 20 May 2031 by a specialized retrieval team led by *ASH*. He was transported via private jet to a remote facility in Armenia. There, under the supervision of local criminal Arman Khachaturian [believed to be <ASH>], Kovalov was forced to engineer a dispersal mechanism for a Next-Gen Thermobaric \"Vacuum\" Bomb. The weapon was designed to bypass conventional armor by creating a pressure wave capable of rupturing internal organs without destroying infrastructure.\n\nKovalov resisted the engineering process, delaying the weapon's completion by days — a delay that allowed NATO intelligence to track the thermal signature of the testing site.\n\nAlthough the extraction team successfully breached the facility, Kovalov was mortally wounded by his captors during the firefight. He remained conscious long enough to provide the encryption key to his research, ensuring the weapon design died with him."
   }
 ]
