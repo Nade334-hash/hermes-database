@@ -70,5 +70,29 @@
       "blood": "",
       "nat": "Caucasian"
     }
+  },
+  {
+    "id": "UETF-SL-86004-02",
+    "type": "poi",
+    "classification": "AUTHORIZED",
+    "name": "Seale, Liam",
+    "alias": "Orka / \"Killer Orka\"",
+    "status": "MIA",
+    "aff": "UE-JTF (Former NATO Embedded Asset)",
+    "role": "Marksman Sniper / Overwatch Specialist",
+    "rank": "",
+    "gender": "Male",
+    "img": "",
+    "stats": {
+      "dob": "18 AUG 2009",
+      "height": "182 cm",
+      "weight": "92kg / 203lbs",
+      "build": "",
+      "hair": "",
+      "eyes": "Green",
+      "blood": "O POS",
+      "nat": "GBR"
+    },
+    "intel": "^Physical Description^\n*General:* Tall endurance-built male with long-limbed sniper physiology. Maintains controlled posture and steady stance even during prolonged overwatch positions. Frequently seen wearing cold-weather field gear and civilian outerwear during non-uniform deployments.\n*Hair:* Short red hair; typically concealed under field caps or beanies.\n*Eyes:* Green; noted by observers for steady gaze and intense focus during targeting.\n*Facial Features:* Light freckles across cheeks and nose. Several minor facial scars including |healed fracture scar across nasal bridge| and |thin laceration beneath left eye|.\n*Presence:* Appears calm and conversational even in high-threat environments. Known to casually speak or joke moments before taking a shot.\n\n^Body Marks^\n*Scars:* Healed fracture mark across nose consistent with blunt trauma injury during field operation or detention altercation.\n*Additional Marks:* Small facial scar beneath left eye. Minor knuckle scarring recorded from earlier incarceration period.\n*Distinguishing Traits:* Often wears practical civilian clothing layered over tactical armor during covert deployments.\n\n^Biography^\nLiam \"Orka\" Seale was born in Manchester, United Kingdom, and spent his early life in an environment heavily influenced by organized street crime. At sixteen he became involved in a robbery that escalated into a hostage incident inside a retail store. During the event Seale discharged multiple rounds from a pistol across the street into the storefront. Numerous casualties resulted; however ballistic reconstruction could not definitively attribute every fatal shot to him. The incident earned him the prison nickname \"Killer Orka\" due to the unusually high hit rate recorded under chaotic conditions.\n\nWhile incarcerated, behavioral analysts connected to ||UK intelligence services|| flagged Seale after reviewing ballistic and psychological data from the incident. Observers noted an abnormally calm neurological response during lethal engagement and extremely high hit probability with minimal training. Following extended evaluation, Seale was quietly removed from the prison system under a classified national security directive and transferred into a covert sniper development program.\n\nBetween 2028 and 2030 Seale underwent extensive training in long-range marksmanship, reconnaissance overwatch, and counter-sniper doctrine. He was subsequently embedded as a deniable British precision asset within multinational operations supporting NATO mission structures.\n\nOperators who worked with Seale consistently described him as relaxed and sarcastic during operations, often making dry remarks over comms even during active engagements. Despite the humor, his shot discipline and situational awareness were regarded as elite.\n\n^Last Seen^\nDate: 13 NOV 2031\nLocation: Rozhia Industrial Sector\nMission: Surveillance of suspected bomb-manufacturing facility.\n\n02:14 — |Facility detonated internally| causing structural collapse and secondary explosions.\n02:16 — Extraction command issued directing team to return toward Brussels command staging.\n02:18 — Seale deviated from extraction route alongside operators designated S, L, and P.\n\nOperator S attempted return several days later and was arrested by NATO security forces.\nOperators L, P, and Seale remain unaccounted for.\n\n|Status: MISSING / POSSIBLE ROGUE ASSET|\n\n^Medical Evaluation^\n<blue>Physical Condition:<blue> Excellent operational fitness with no chronic injuries recorded prior to disappearance.\n<green>Endurance:<green> Capable of extended overwatch exceeding 18 hours without performance degradation.\n<ochre>Motor Stability:<ochre> Extremely low tremor index during firing tests; above Tier-1 sniper baseline.\n\n^Psychological Profile^\n*Baseline:* Emotionally stable with controlled stress response during combat.\n*Behavioral Pattern:* Uses sarcasm and humor as a pressure-regulation mechanism.\n*Command Relationship:* Historically compliant but demonstrates independent decision-making when civilian threat is perceived.\n*Loyalty Orientation:* Strong personal loyalty toward teammates over formal command hierarchy.\n\n^Other Intel^\n*Combat Specialty:* Long-range precision engagement using .338 Lapua and suppressed designated marksman platforms.\n*Operational Style:* Prefers single-shot confirmation rather than rapid follow-up fire.\n*Field Reputation:* Calm, unpredictable sense of humor, extremely patient sniper.\n\n<red>Assessment:<red> Subject possesses elite marksmanship capability and deep familiarity with NATO operational procedures. If active, Seale represents a highly capable autonomous field operator."
   }
 ]
