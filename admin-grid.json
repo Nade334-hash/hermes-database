@@ -10,5 +10,17 @@
     "lat": 11.632359294823937,
     "lng": 103.60111498612824,
     "hash": "OU-AE27B7-21"
+  },
+  {
+    "id": "MKR-1773585106387",
+    "name": "LZ-CAM-1",
+    "aff": "friendly",
+    "domain": "ground",
+    "type": "Terrain",
+    "desc": "Designated Landing Zone for operation: Flour-Box",
+    "classification": "AUTHORIZED",
+    "lat": 11.691529075559345,
+    "lng": 103.63767471893212,
+    "hash": "OU-B057C2-17"
   }
 ]
