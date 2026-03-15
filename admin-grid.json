@@ -22,5 +22,17 @@
     "lat": 11.674728837562707,
     "lng": 103.62899681450108,
     "hash": "OU-AFB7BF-48"
+  },
+  {
+    "id": "MKR-1773598522080",
+    "name": "TNR",
+    "aff": "hostile",
+    "domain": "ground",
+    "type": "MOB",
+    "desc": "",
+    "classification": "AUTHORIZED",
+    "lat": 50.088119302767716,
+    "lng": 21.99251478943799,
+    "hash": "UO-3C2969-82"
   }
 ]
