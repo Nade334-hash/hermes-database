@@ -12,18 +12,6 @@
     "hash": "OU-AE27B7-21"
   },
   {
-    "id": "MKR-1773585542963",
-    "name": "LZ-CAMB-1",
-    "aff": "friendly",
-    "domain": "ground",
-    "type": "Terrain",
-    "desc": "Designated Landing Zone for operation: Flour-Box\n6 km - North East of Kaopisat Group Compound (Immediate operating area).\n4 km - Walk distance - Pre-op.\n2 km radius - Operating area.",
-    "classification": "CLASSIFIED",
-    "lat": 11.674728837562707,
-    "lng": 103.62899681450108,
-    "hash": "OU-AFB7BF-48"
-  },
-  {
     "id": "MKR-1773598522080",
     "name": "TNR",
     "aff": "hostile",
