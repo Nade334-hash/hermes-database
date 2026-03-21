@@ -46,5 +46,17 @@
     "lat": 14.186396675945367,
     "lng": -16.857545255947677,
     "hash": "PL-0C9C85-62"
+  },
+  {
+    "id": "MKR-1774123728576",
+    "name": "C-BASE-09",
+    "aff": "friendly",
+    "domain": "ground",
+    "type": "MOB",
+    "desc": "[REDACTED]",
+    "classification": "CLASSIFIED",
+    "lat": 60.57890692764612,
+    "lng": -143.83475868067507,
+    "hash": "VC-C019CA-85"
   }
 ]
