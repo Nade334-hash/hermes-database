@@ -34,5 +34,17 @@
     "lat": 50.088119302767716,
     "lng": 21.99251478943799,
     "hash": "UO-3C2969-82"
+  },
+  {
+    "id": "MKR-1774123625240",
+    "name": "Shadows and Dust",
+    "aff": "unknown",
+    "domain": "ground",
+    "type": "Intel/Op",
+    "desc": "Bar",
+    "classification": "PUBLIC",
+    "lat": 14.186396675945367,
+    "lng": -16.857545255947677,
+    "hash": "PL-0C9C85-62"
   }
 ]
