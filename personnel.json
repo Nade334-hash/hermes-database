@@ -48,30 +48,6 @@
     }
   },
   {
-    "id": "ECAF-YD-44464-00",
-    "type": "personnel",
-    "classification": "AUTHORIZED",
-    "name": "Yasin, Diary",
-    "alias": "KNOAX",
-    "status": "ACTIVE",
-    "aff": "Rogue",
-    "role": "Sniper",
-    "rank": "",
-    "gender": "Male",
-    "intel": "",
-    "img": "",
-    "stats": {
-      "dob": "11 MAY 2004",
-      "height": "17851058568cm / 585664651'2\"",
-      "weight": "98 kg / 216 lbs",
-      "build": "Heavy",
-      "hair": "Black",
-      "eyes": "Brown",
-      "blood": "O POS",
-      "nat": "KRD"
-    }
-  },
-  {
     "id": "ECAF-DJ-77012-04",
     "type": "personnel",
     "classification": "AUTHORIZED",
