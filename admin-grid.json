@@ -58,5 +58,17 @@
     "lat": 35.58604642046619,
     "lng": 45.4632045706101,
     "hash": "SQ-23E489-63"
+  },
+  {
+    "id": "MKR-1778938985548",
+    "name": "O-BASE-02",
+    "aff": "friendly",
+    "domain": "ground",
+    "type": "MOB",
+    "desc": "",
+    "classification": "AUTHORIZED",
+    "lat": 40.603758368375885,
+    "lng": -111.9440404368319,
+    "hash": "SE-DD6EA4-35"
   }
 ]
