@@ -70,5 +70,29 @@
       "blood": "O NEG",
       "nat": "CAN"
     }
+  },
+  {
+    "id": "ECAF-BE-64853-00",
+    "type": "personnel",
+    "classification": "AUTHORIZED",
+    "name": "Bennett, Evelyn",
+    "alias": "Bennette",
+    "status": "ACTIVE",
+    "aff": "ECAF",
+    "role": "CEO",
+    "rank": "",
+    "gender": "Female",
+    "intel": "^Physical Description^\n\n^Body Marks^\n\n^Biography^\n\n^Last Seen^\n\n^Medical Evaluation^\n\n^Psychological Profile^\n\n^Other Intel^\n",
+    "img": "",
+    "stats": {
+      "dob": "",
+      "height": "",
+      "weight": "",
+      "build": "",
+      "hair": "",
+      "eyes": "",
+      "blood": "",
+      "nat": ""
+    }
   }
 ]
