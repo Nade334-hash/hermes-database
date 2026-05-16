@@ -70,5 +70,17 @@
     "lat": 40.603758368375885,
     "lng": -111.9440404368319,
     "hash": "SE-DD6EA4-35"
+  },
+  {
+    "id": "MKR-1778956974638",
+    "name": "Boyeas Town",
+    "aff": "neutral",
+    "domain": "ground",
+    "type": "Water",
+    "desc": "",
+    "classification": "PUBLIC",
+    "lat": 48.06027455462726,
+    "lng": -103.74365508556367,
+    "hash": "TF-F1281E-06"
   }
 ]
