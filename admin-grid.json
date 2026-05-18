@@ -82,5 +82,17 @@
     "lat": 48.06027455462726,
     "lng": -103.74365508556367,
     "hash": "TF-F1281E-06"
+  },
+  {
+    "id": "MKR-1779126715471",
+    "name": "SICARIO",
+    "aff": "neutral",
+    "domain": "ground",
+    "type": "Outpost",
+    "desc": "",
+    "classification": "PUBLIC",
+    "lat": 31.76682419466905,
+    "lng": -106.45103394985199,
+    "hash": "RF-96A4FD-68"
   }
 ]
