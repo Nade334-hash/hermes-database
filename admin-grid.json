@@ -48,18 +48,6 @@
     "hash": "VC-C019CA-85"
   },
   {
-    "id": "MKR-1774898965548",
-    "name": "LALO",
-    "aff": "hostile",
-    "domain": "ground",
-    "type": "Infantry",
-    "desc": "",
-    "classification": "CLASSIFIED",
-    "lat": 35.58604642046619,
-    "lng": 45.4632045706101,
-    "hash": "SQ-23E489-63"
-  },
-  {
     "id": "MKR-1778938985548",
     "name": "O-BASE-02",
     "aff": "friendly",
