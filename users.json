@@ -8,5 +8,10 @@
     "uid": "ECAF-LB-027-11",
     "passHash": "1934b302439e4822a954269264f2b5e2b76446b5f8d3076457c2d7854ec6253f",
     "role": "authorized"
+  },
+  {
+    "uid": "MMMM-MM-000-00",
+    "passHash": "8f434346648f6b96df89dda901c5176b10a6d83961dd3c1ac88b59b2dc327aa4",
+    "role": "authorized"
   }
 ]
