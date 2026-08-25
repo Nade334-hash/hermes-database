@@ -94,5 +94,17 @@
     "lat": 42.67956919297381,
     "lng": 80.0040180090425,
     "hash": "TS-2A3C72-94"
+  },
+  {
+    "id": "MKR-1787668088030",
+    "name": "C-BASE-09 Lab",
+    "aff": "friendly",
+    "domain": "sub",
+    "type": "MOB",
+    "desc": "",
+    "classification": "CLASSIFIED",
+    "lat": 60.57225143672328,
+    "lng": -143.81904125030394,
+    "hash": "VC-BFD9CF-20"
   }
 ]
