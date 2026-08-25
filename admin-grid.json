@@ -82,5 +82,17 @@
     "lat": 31.76682419466905,
     "lng": -106.45103394985199,
     "hash": "RF-96A4FD-68"
+  },
+  {
+    "id": "MKR-1787667754216",
+    "name": "Unknown Facility",
+    "aff": "unknown",
+    "domain": "sub",
+    "type": "Outpost",
+    "desc": "",
+    "classification": "PUBLIC",
+    "lat": 42.67956919297381,
+    "lng": 80.0040180090425,
+    "hash": "TS-2A3C72-94"
   }
 ]
