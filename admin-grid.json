@@ -24,18 +24,6 @@
     "hash": "UO-3C2969-82"
   },
   {
-    "id": "MKR-1774123625240",
-    "name": "Shadows and Dust",
-    "aff": "unknown",
-    "domain": "ground",
-    "type": "Intel/Op",
-    "desc": "Bar",
-    "classification": "PUBLIC",
-    "lat": 21.9693478673652,
-    "lng": -22.412109374999204,
-    "hash": "PL-0C9C85-62"
-  },
-  {
     "id": "MKR-1774123728576",
     "name": "C-BASE-09",
     "aff": "friendly",
