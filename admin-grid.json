@@ -84,18 +84,6 @@
     "hash": "RF-96A4FD-68"
   },
   {
-    "id": "MKR-1787667754216",
-    "name": "Unknown Facility",
-    "aff": "unknown",
-    "domain": "sub",
-    "type": "Outpost",
-    "desc": "",
-    "classification": "PUBLIC",
-    "lat": 43.53430740561663,
-    "lng": 68.33194476927463,
-    "hash": "TS-2A3C72-94"
-  },
-  {
     "id": "MKR-1787668088030",
     "name": "C-BASE-09 Lab",
     "aff": "friendly",
