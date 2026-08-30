@@ -94,5 +94,17 @@
     "description": "",
     "lat": 7.467479843310159,
     "lng": -12.500423693607928
+  },
+  {
+    "id": "in_1788127491659",
+    "kind": "intel",
+    "name": "IRON KEY",
+    "archiveRefId": "DOC-1773583705027",
+    "classification": "CLASSIFIED",
+    "type": "Intel/Op",
+    "aff": "unknown",
+    "domain": "document",
+    "lat": 41.21499807546655,
+    "lng": 44.371330807164924
   }
 ]
