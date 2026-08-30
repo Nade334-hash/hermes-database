@@ -73,15 +73,15 @@
   },
   {
     "id": "MKR-1787668088030",
+    "kind": "marker",
     "name": "C-BASE-09 Lab",
     "aff": "friendly",
     "domain": "sub",
-    "type": "MOB",
-    "desc": "",
     "classification": "CLASSIFIED",
+    "type": "Facility",
+    "description": "",
     "lat": 60.57225143672328,
-    "lng": -143.81904125030394,
-    "hash": "VC-BFD9CF-20"
+    "lng": -143.81904125030394
   },
   {
     "id": "mk_1787861285145",
