@@ -14,15 +14,16 @@
   },
   {
     "id": "MKR-1773598522080",
+    "kind": "marker",
     "name": "TNR",
     "aff": "hostile",
     "domain": "ground",
+    "classification": "CLASSIFIED",
     "type": "MOB",
-    "desc": "",
-    "classification": "AUTHORIZED",
+    "description": "",
     "lat": 50.088119302767716,
     "lng": 21.99251478943799,
-    "hash": "UO-3C2969-82"
+    "thumbnail": true
   },
   {
     "id": "MKR-1774123728576",
