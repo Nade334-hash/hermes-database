@@ -13,5 +13,10 @@
     "uid": "MMMM-MM-000-00",
     "passHash": "8f434346648f6b96df89dda901c5176b10a6d83961dd3c1ac88b59b2dc327aa4",
     "role": "authorized"
+  },
+  {
+    "uid": "LAMB-LB-027-11",
+    "passHash": "c04d6e34aab689c5c0e68eb51753c843e032efa7c16427f8642ee07ab946e981",
+    "role": "authorized"
   }
 ]
