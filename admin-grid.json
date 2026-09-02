@@ -120,5 +120,18 @@
     "description": "",
     "lat": 48.06271235012585,
     "lng": -103.741886729273
+  },
+  {
+    "id": "mk_1788376212972",
+    "kind": "marker",
+    "name": "Kaopisat Group Compound",
+    "aff": "friendly",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Settlement",
+    "description": "",
+    "lat": 11.632626560681558,
+    "lng": 103.60220905747883,
+    "thumbnail": true
   }
 ]
