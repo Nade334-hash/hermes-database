@@ -108,5 +108,17 @@
     "domain": "document",
     "lat": 41.21499807546655,
     "lng": 44.371330807164924
+  },
+  {
+    "id": "mk_1788354707583",
+    "kind": "marker",
+    "name": "Boyaes Town",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Settlement",
+    "description": "",
+    "lat": 48.06271235012585,
+    "lng": -103.741886729273
   }
 ]
