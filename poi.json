@@ -98,24 +98,24 @@
   {
     "id": "PESH-TH-53911-00",
     "type": "Person Of Interest",
-    "classification": "AUTHORIZED",
+    "classification": "PUBLIC",
     "name": "Kawa Abdullah",
     "alias": "The Blacksmith",
     "status": "ACTIVE",
     "aff": "Peshmarga",
     "role": "President of ROR - Field Marshall",
-    "rank": "",
-    "gender": "Unknown",
+    "rank": "OF-10",
+    "gender": "Male",
     "intel": "^Physical Description^\n\n^Body Marks^\n\n^Biography^\n\n^Last Seen^\n\n^Medical Evaluation^\n\n^Psychological Profile^\n\n^Other Intel^\n",
     "img": "",
     "stats": {
       "dob": "",
       "height": "",
       "weight": "",
-      "build": "",
-      "hair": "",
-      "eyes": "",
-      "blood": "",
+      "build": "Muscular",
+      "hair": "Grey",
+      "eyes": "Brown",
+      "blood": "O NEG",
       "nat": ""
     }
   }
