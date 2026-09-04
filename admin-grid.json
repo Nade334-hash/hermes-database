@@ -38,18 +38,6 @@
     "hash": "SE-DD6EA4-35"
   },
   {
-    "id": "MKR-1778956974638",
-    "name": "Boyeas Town",
-    "aff": "neutral",
-    "domain": "ground",
-    "type": "Water",
-    "desc": "",
-    "classification": "PUBLIC",
-    "lat": 45.22632347015036,
-    "lng": -86.19466574612909,
-    "hash": "TF-F1281E-06"
-  },
-  {
     "id": "MKR-1779126715471",
     "name": "SICARIO",
     "aff": "neutral",
