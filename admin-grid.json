@@ -1,18 +1,5 @@
 [
   {
-    "id": "MKR-1773162083395",
-    "kind": "marker",
-    "name": "Kaopisat Group Compound",
-    "aff": "hostile",
-    "domain": "ground",
-    "classification": "CLASSIFIED",
-    "type": "Settlement",
-    "description": "",
-    "lat": 11.632603466023696,
-    "lng": 103.60344008214065,
-    "thumbnail": true
-  },
-  {
     "id": "MKR-1773598522080",
     "kind": "marker",
     "name": "TNR",
