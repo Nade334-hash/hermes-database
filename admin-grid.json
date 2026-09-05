@@ -109,5 +109,17 @@
     "lat": 11.632626560681558,
     "lng": 103.60220905747883,
     "thumbnail": true
+  },
+  {
+    "id": "mk_1788630369064",
+    "kind": "marker",
+    "name": "Kaso Mall",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "POI",
+    "description": "",
+    "lat": 35.55742553718339,
+    "lng": 45.44113015369052
   }
 ]
