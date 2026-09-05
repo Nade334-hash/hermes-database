@@ -145,5 +145,17 @@
     "description": "Torres family owned casino - Drug cartel operations hub",
     "lat": -12.066806316848997,
     "lng": -77.15014402894688
+  },
+  {
+    "id": "mk_1788631309308",
+    "kind": "marker",
+    "name": "La Niebla Roja Drug Warehouse (NOT-CONFIRMED)",
+    "aff": "unknown",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Supply",
+    "description": "Suspected Location of Rojas' greenhouse",
+    "lat": -12.092636246260952,
+    "lng": -77.20181540510508
   }
 ]
