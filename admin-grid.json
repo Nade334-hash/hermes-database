@@ -62,18 +62,6 @@
     "lng": -143.81904125030394
   },
   {
-    "id": "mk_1787861285145",
-    "kind": "marker",
-    "name": "Holten",
-    "aff": "friendly",
-    "domain": "sea",
-    "classification": "PUBLIC",
-    "type": "Mechanized",
-    "description": "",
-    "lat": 7.467479843310159,
-    "lng": -12.500423693607928
-  },
-  {
     "id": "in_1788127491659",
     "kind": "intel",
     "name": "IRON KEY",
