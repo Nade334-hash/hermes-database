@@ -133,5 +133,17 @@
     "description": "Unspecified facility near Armenian border - Codename \"Isotope\" held hostage",
     "lat": 40.00098251692293,
     "lng": 44.51867844152571
+  },
+  {
+    "id": "mk_1788631212012",
+    "kind": "marker",
+    "name": "La Niebla Roja Casino",
+    "aff": "unknown",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "POI",
+    "description": "Torres family owned casino - Drug cartel operations hub",
+    "lat": -12.066806316848997,
+    "lng": -77.15014402894688
   }
 ]
