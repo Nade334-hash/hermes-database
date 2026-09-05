@@ -109,5 +109,17 @@
     "description": "",
     "lat": 35.55742553718339,
     "lng": 45.44113015369052
+  },
+  {
+    "id": "mk_1788630496836",
+    "kind": "marker",
+    "name": "Lviv International Airport",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Airfield",
+    "description": "",
+    "lat": 49.812458044733205,
+    "lng": 23.956165017564388
   }
 ]
