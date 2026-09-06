@@ -181,5 +181,17 @@
     "description": "",
     "lat": 37.497552070984895,
     "lng": 127.02856003131586
+  },
+  {
+    "id": "mk_1788713382525",
+    "kind": "marker",
+    "name": "Obsidian Globe Hotel",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Facility",
+    "description": "Shim-Zu-owned. Paired with the Ivory as his visible business empire.",
+    "lat": 37.517327793418374,
+    "lng": 127.04734663920658
   }
 ]
