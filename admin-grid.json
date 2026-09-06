@@ -253,5 +253,17 @@
     "description": "Damektov and Ivanova begin ENTI research, 2022.",
     "lat": 48.62105722642272,
     "lng": 22.285869541436597
+  },
+  {
+    "id": "mk_1788714226309",
+    "kind": "marker",
+    "name": "Research Facility, rural Greece",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Medical",
+    "description": "Established 2024 once Harris connects the team to external funding.",
+    "lat": 40.38334154030724,
+    "lng": 22.596581936628667
   }
 ]
