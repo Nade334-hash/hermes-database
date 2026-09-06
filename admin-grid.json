@@ -241,5 +241,17 @@
     "description": "2013 hostage crisis. Gavalas breaches the tunnel alone — earns nickname \"Pithok.\" after opening a metal door using his body.",
     "lat": 37.97580119738842,
     "lng": 23.734472775032287
+  },
+  {
+    "id": "mk_1788714131333",
+    "kind": "marker",
+    "name": "Uzhhorod National University",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Facility",
+    "description": "Damektov and Ivanova begin ENTI research, 2022.",
+    "lat": 48.62105722642272,
+    "lng": 22.285869541436597
   }
 ]
