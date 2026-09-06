@@ -27,15 +27,15 @@
   },
   {
     "id": "MKR-1778938985548",
+    "kind": "marker",
     "name": "O-BASE-02",
     "aff": "friendly",
     "domain": "ground",
+    "classification": "PUBLIC",
     "type": "MOB",
-    "desc": "",
-    "classification": "AUTHORIZED",
+    "description": "",
     "lat": 40.603758368375885,
-    "lng": -111.9440404368319,
-    "hash": "SE-DD6EA4-35"
+    "lng": -111.9440404368319
   },
   {
     "id": "MKR-1779126715471",
