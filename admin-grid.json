@@ -289,5 +289,17 @@
     "description": "",
     "lat": 48.9734335265413,
     "lng": 153.50030981173592
+  },
+  {
+    "id": "mk_1788715608518",
+    "kind": "marker",
+    "name": "MB-BASE-13",
+    "aff": "unknown",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Medical",
+    "description": "",
+    "lat": 48.981668558764966,
+    "lng": 153.47806047363696
   }
 ]
