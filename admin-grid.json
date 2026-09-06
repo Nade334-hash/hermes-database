@@ -265,5 +265,17 @@
     "description": "Established 2024 once Harris connects the team to external funding.",
     "lat": 40.38334154030724,
     "lng": 22.596581936628667
+  },
+  {
+    "id": "mk_1788715511389",
+    "kind": "marker",
+    "name": "Rastushchuy Island",
+    "aff": "unknown",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "POI",
+    "description": "(Details Unknown)",
+    "lat": 48.980186353369845,
+    "lng": 153.48600666581393
   }
 ]
