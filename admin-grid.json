@@ -193,5 +193,17 @@
     "description": "Shim-Zu-owned. Paired with the Ivory as his visible business empire.",
     "lat": 37.517327793418374,
     "lng": 127.04734663920658
+  },
+  {
+    "id": "mk_1788713539437",
+    "kind": "marker",
+    "name": "Guardians of the Black Shell HQ (Suspected)",
+    "aff": "unknown",
+    "domain": "sub",
+    "classification": "PUBLIC",
+    "type": "Command",
+    "description": "Unlisted address. Registered as a Korean firm, publicly believed Polish-owned.",
+    "lat": 37.53013000780456,
+    "lng": 127.02228965753199
   }
 ]
