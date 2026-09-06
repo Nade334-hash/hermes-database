@@ -205,5 +205,17 @@
     "description": "Unlisted address. Registered as a Korean firm, publicly believed Polish-owned.",
     "lat": 37.53013000780456,
     "lng": 127.02228965753199
+  },
+  {
+    "id": "mk_1788713676101",
+    "kind": "marker",
+    "name": "PROJECT CONSTELLATION Facility",
+    "aff": "unknown",
+    "domain": "ground",
+    "classification": "CLASSIFIED",
+    "type": "Command",
+    "description": "",
+    "lat": 63.4008365351865,
+    "lng": 18.897566599614095
   }
 ]
