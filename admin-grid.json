@@ -169,5 +169,17 @@
     "description": "",
     "lat": 40.63268570315009,
     "lng": 22.957401505055685
+  },
+  {
+    "id": "mk_1788713311390",
+    "kind": "marker",
+    "name": "Ivory Hotel",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Facility",
+    "description": "",
+    "lat": 37.497552070984895,
+    "lng": 127.02856003131586
   }
 ]
