@@ -217,5 +217,17 @@
     "description": "",
     "lat": 63.4008365351865,
     "lng": 18.897566599614095
+  },
+  {
+    "id": "mk_1788713873189",
+    "kind": "marker",
+    "name": "EKAM Training Compound",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Facility",
+    "description": "counter-terrorism unit.",
+    "lat": 38.04387501645914,
+    "lng": 23.7102997969275
   }
 ]
