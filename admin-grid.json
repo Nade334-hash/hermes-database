@@ -157,5 +157,17 @@
     "description": "Suspected Location of Rojas' greenhouse",
     "lat": -12.092636246260952,
     "lng": -77.20181540510508
+  },
+  {
+    "id": "mk_1788713014901",
+    "kind": "marker",
+    "name": "Aristotle University, Thessaloniki",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "POI",
+    "description": "",
+    "lat": 40.63268570315009,
+    "lng": 22.957401505055685
   }
 ]
