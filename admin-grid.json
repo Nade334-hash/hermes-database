@@ -229,5 +229,17 @@
     "description": "counter-terrorism unit.",
     "lat": 38.04387501645914,
     "lng": 23.7102997969275
+  },
+  {
+    "id": "mk_1788713947909",
+    "kind": "marker",
+    "name": "Athens Metro (Syntagma)",
+    "aff": "friendly",
+    "domain": "sub",
+    "classification": "PUBLIC",
+    "type": "POI",
+    "description": "2013 hostage crisis. Gavalas breaches the tunnel alone — earns nickname \"Pithok.\" after opening a metal door using his body.",
+    "lat": 37.97580119738842,
+    "lng": 23.734472775032287
   }
 ]
