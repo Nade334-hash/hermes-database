@@ -277,5 +277,17 @@
     "description": "(Details Unknown)",
     "lat": 48.980186353369845,
     "lng": 153.48600666581393
+  },
+  {
+    "id": "mk_1788715542798",
+    "kind": "marker",
+    "name": "RF-BASE-13",
+    "aff": "unknown",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Port",
+    "description": "",
+    "lat": 48.9734335265413,
+    "lng": 153.50030981173592
   }
 ]
