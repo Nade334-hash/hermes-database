@@ -18,7 +18,7 @@
     "name": "C-BASE-09",
     "aff": "friendly",
     "domain": "ground",
-    "classification": "CLASSIFIED",
+    "classification": "PUBLIC",
     "type": "Command",
     "description": "",
     "lat": 60.57890692764612,
