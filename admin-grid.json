@@ -313,5 +313,17 @@
     "description": "",
     "lat": 38.49998275837743,
     "lng": -98.49997796901211
+  },
+  {
+    "id": "mk_1788809738805",
+    "kind": "marker",
+    "name": "Border-Hideout",
+    "aff": "hostile",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Facility",
+    "description": "connected to Ash",
+    "lat": 40.99997916632361,
+    "lng": 44.50002760487624
   }
 ]
