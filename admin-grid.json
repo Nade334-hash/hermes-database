@@ -39,15 +39,15 @@
   },
   {
     "id": "MKR-1779126715471",
+    "kind": "marker",
     "name": "SICARIO",
     "aff": "neutral",
     "domain": "ground",
+    "classification": "CLASSIFIED",
     "type": "Outpost",
-    "desc": "",
-    "classification": "PUBLIC",
+    "description": "",
     "lat": 31.76682419466905,
-    "lng": -106.45103394985199,
-    "hash": "RF-96A4FD-68"
+    "lng": -106.45103394985199
   },
   {
     "id": "MKR-1787668088030",
