@@ -331,7 +331,7 @@
     "kind": "marker",
     "name": "LS NMR",
     "aff": "hostile",
-    "domain": "ground",
+    "domain": "sea",
     "classification": "PUBLIC",
     "type": "POI",
     "description": "What the fuck",
