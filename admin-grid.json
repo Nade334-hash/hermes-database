@@ -337,5 +337,17 @@
     "description": "What the fuck",
     "lat": 58.11557584049464,
     "lng": -134.74543945120513
+  },
+  {
+    "id": "mk_1788816751465",
+    "kind": "marker",
+    "name": "La Niebla Roja Cartel Interior Network",
+    "aff": "hostile",
+    "domain": "ground",
+    "classification": "CLASSIFIED",
+    "type": "Settlement",
+    "description": "Broader cartel territory behind the casino front",
+    "lat": -9.19003977621712,
+    "lng": -75.01999999999917
   }
 ]
