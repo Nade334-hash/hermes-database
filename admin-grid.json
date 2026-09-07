@@ -301,17 +301,5 @@
     "description": "",
     "lat": 48.981668558764966,
     "lng": 153.47806047363696
-  },
-  {
-    "id": "INT-1779102720182",
-    "kind": "intel",
-    "name": "Illegal Weapons - Metal Cylinders",
-    "archiveRefId": "",
-    "classification": "PUBLIC",
-    "type": "Intel/Op",
-    "aff": "unknown",
-    "domain": "document",
-    "lat": 11.630003504318879,
-    "lng": 103.59739296710677
   }
 ]
