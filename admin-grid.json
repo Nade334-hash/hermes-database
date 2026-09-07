@@ -301,5 +301,17 @@
     "description": "Suspected Location of Rojas' greenhouse",
     "lat": -12.092806721135673,
     "lng": -77.20200315974044
+  },
+  {
+    "id": "mk_1788809586854",
+    "kind": "marker",
+    "name": "Kansas Marshall Court",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "Facility",
+    "description": "",
+    "lat": 38.49998275837743,
+    "lng": -98.49997796901211
   }
 ]
