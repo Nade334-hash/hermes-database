@@ -301,5 +301,17 @@
     "description": "",
     "lat": 48.981668558764966,
     "lng": 153.47806047363696
+  },
+  {
+    "id": "mk_1788805900269",
+    "kind": "marker",
+    "name": "La Niebla Roja Drug Warehouse (NOT-CONFIRMED)",
+    "aff": "unknown",
+    "domain": "ground",
+    "classification": "CLASSIFIED",
+    "type": "Supply",
+    "description": "",
+    "lat": -12.092806721135673,
+    "lng": -77.20200315974044
   }
 ]
