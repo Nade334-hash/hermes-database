@@ -325,5 +325,17 @@
     "description": "",
     "lat": 50.839818073532086,
     "lng": 4.356844100471676
+  },
+  {
+    "id": "mk_1788813179222",
+    "kind": "marker",
+    "name": "LS NMR",
+    "aff": "hostile",
+    "domain": "ground",
+    "classification": "PUBLIC",
+    "type": "POI",
+    "description": "What the fuck",
+    "lat": 58.11557584049464,
+    "lng": -134.74543945120513
   }
 ]
