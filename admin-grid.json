@@ -32,7 +32,7 @@
     "aff": "friendly",
     "domain": "ground",
     "classification": "PUBLIC",
-    "type": "MOB",
+    "type": "Command",
     "description": "",
     "lat": 40.603758368375885,
     "lng": -111.9440404368319
