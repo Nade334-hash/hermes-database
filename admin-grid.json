@@ -343,7 +343,7 @@
     "kind": "marker",
     "name": "La Niebla Roja Cartel Interior Network",
     "aff": "hostile",
-    "domain": "ground",
+    "domain": "sub",
     "classification": "CLASSIFIED",
     "type": "Settlement",
     "description": "Broader cartel territory behind the casino front",
