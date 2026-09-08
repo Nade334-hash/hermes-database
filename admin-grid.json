@@ -349,5 +349,17 @@
     "description": "Broader cartel territory behind the casino front",
     "lat": -9.19003977621712,
     "lng": -75.01999999999917
+  },
+  {
+    "id": "mk_1788881502340",
+    "kind": "marker",
+    "name": "Collins, Samuel arrest site",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "CLASSIFIED",
+    "type": "Facility",
+    "description": "",
+    "lat": 46.026172136902375,
+    "lng": 63.01671975061814
   }
 ]
