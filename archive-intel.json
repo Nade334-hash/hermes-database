@@ -2,12 +2,13 @@
   {
     "id": "DOC-1772971503856",
     "cat": "INTEL",
-    "classification": "AUTHORIZED",
+    "classification": "PUBLIC",
     "title": "Hermes",
     "date": "2026-03-08",
     "auth": "M7a",
     "ref": "AUTO-2529",
-    "body": "^What's Hermes^\nHermes is *very* <blue>cool<blue>"
+    "folder": "",
+    "body": "^What's Hermes^\nHermes is *very* <blue>cool<blue>\n\n|Yeppieieieieieie|"
   },
   {
     "id": "DOC-1773528199112",
