@@ -60,6 +60,6 @@
     "auth": "Partrij",
     "ref": "AUTO-3998",
     "folder": "Project: Paracosm - IHOLW",
-    "body": "^Area 01 Shattered Peaks    - <blue>Light Blue<blue>^\n^Area 02 Oyster Village     - Pink^\n^Area 03 Cogway Corridor    - <yellow>Yellow<yellow>^\n^Area 04 EarthVein          - <blue>Light Grey<blue>^\n^Area 05 Deep Caverns       - Dark Grey^\n^Area 06 Inferno Forge      - <red>Orange<red>^\n^Area 07 Magma Pits         - <red>Red<red>^\n^Area 08 Rootwarden Enclave - <blue>Brown^\n^Area 09 Far Lake           - <blue>Blue<blue>^\n^Area 10 Swamps             - <green>Green<green>^\n^Area 11 Lenience's heart   - <yellow>Gold<yellow>^\n^Area 12 Docks              - <green>Teal<green>^\n^Area 13 Upper City         - Nile^\n^Area 14 Celestial Grove    - Purple^\n^Area 15 Orenda's shrine    - Dark Purple^"
+    "body": "^Area 01 Shattered Peaks    - <blue>Light Blue<blue>^\n^Area 02 Oyster Village     - Pink^\n^Area 03 Cogway Corridor    - =Yellow^\n^Area 04 EarthVein          - <blue>Light Grey<blue>^\n^Area 05 Deep Caverns       - Dark Grey^\n^Area 06 Inferno Forge      - <red>Orange<red>^\n^Area 07 Magma Pits         - <red>Red<red>^\n^Area 08 Rootwarden Enclave - <blue>Brown^\n^Area 09 Far Lake           - <blue>Blue<blue>^\n^Area 10 Swamps             - <green>Green<green>^\n^Area 11 Lenience's heart   - Gold^\n^Area 12 Docks              - <green>Teal<green>^\n^Area 13 Upper City         - Nile^\n^Area 14 Celestial Grove    - Purple^\n^Area 15 Orenda's shrine    - Dark Purple^"
   }
 ]
