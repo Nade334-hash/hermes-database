@@ -50,5 +50,16 @@
     "ref": "AUTO-8607",
     "folder": "Project: Paracosm - IHOLW",
     "body": "Prologe:\nShattered Peaks - snowy mountain area - light blue"
+  },
+  {
+    "id": "DOC-1789131798275",
+    "cat": "INTEL",
+    "classification": "CLASSIFIED",
+    "title": "03 - World Building - Areas - Color coded",
+    "date": "2026-09-11",
+    "auth": "Partrij",
+    "ref": "AUTO-3998",
+    "folder": "Project: Paracosm - IHOLW",
+    "body": "Area 01 Shattered Peaks    - <blue>Light Blue<blue>\nArea 02 Oyster Village     - Pink\nArea 03 Cogway Corridor    - <blue>Light Grey<blue>\nArea 04 EarthVein          - <blue>Medium Grey<blue>\nArea 05 Deep Caverns       - Dark Grey\nArea 06 Inferno Forge      - <red>Orange<red>\nArea 07 Magma Pits         - <red>Red<red>\nArea 08 Rootwarden Enclave - <blue>Brown\nArea 09 Far Lake           - <blue>Blue<blue>\nArea 10 Swamps             - <green>Green<green>\nArea 11 Lenience's heart   - Gold\nArea 12 Docks              - <green>Teal<green>\nArea 13 Upper City         - Nile\nArea 14 Celestial Grove    - Purple\nArea 15 Orenda's shrine    - Dark Purple "
   }
 ]
