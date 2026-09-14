@@ -30,7 +30,7 @@
   {
     "id": "rt_1789380925222",
     "name": "test route air",
-    "priority": "low",
+    "priority": "high",
     "type": "air",
     "points": [
       {
