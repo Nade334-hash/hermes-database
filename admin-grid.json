@@ -361,5 +361,17 @@
     "description": "",
     "lat": 46.026172136902375,
     "lng": 63.01671975061814
+  },
+  {
+    "id": "mk_1789416140743",
+    "kind": "marker",
+    "name": "HVT LAMB",
+    "aff": "neutral",
+    "domain": "ground",
+    "classification": "CLASSIFIED",
+    "type": "Settlement",
+    "description": "",
+    "lat": 35.583888120942945,
+    "lng": 45.340016065164235
   }
 ]
