@@ -106,17 +106,17 @@
     "role": "President of ROR - Field Marshall",
     "rank": "OF-10",
     "gender": "Male",
-    "intel": "^Physical Description^\n\n^Body Marks^\n\n^Biography^\n\n^Last Seen^\n\n^Medical Evaluation^\n\n^Psychological Profile^\n\n^Other Intel^\n",
+    "intel": "^Physical Description^\n\n^Body Marks^\n- Redish brown birth mark on right arm, above elbow.\n\n^Biography^\n\n^Last Seen^\n\n^Medical Evaluation^\n\n^Psychological Profile^\n\n^Other Intel^\n",
     "img": "",
     "stats": {
-      "dob": "",
+      "dob": "12/11/1993",
       "height": "182",
-      "weight": "",
+      "weight": "90 kg / 198 lbs",
       "build": "Muscular",
       "hair": "Grey",
       "eyes": "Brown",
       "blood": "O NEG",
-      "nat": ""
+      "nat": "Kurdish"
     }
   }
 ]
