@@ -36,5 +36,102 @@
       "lng": 21.99139793295197
     }
   ],
-  "designations": []
+  "designations": [
+    {
+      "type": "unit",
+      "name": "Charlie",
+      "lat": 50.085974333357,
+      "lng": 21.993283389146058,
+      "symbol": "Infantry",
+      "color": "#4C8FC4"
+    },
+    {
+      "type": "unit",
+      "name": "Alpha",
+      "lat": 50.08862883115992,
+      "lng": 21.99175247218605,
+      "symbol": "Infantry",
+      "color": "#4C8FC4"
+    },
+    {
+      "type": "unit",
+      "name": "Echo",
+      "lat": 50.08715926370033,
+      "lng": 21.99362740918241,
+      "symbol": "Infantry",
+      "color": "#D4AC0D"
+    },
+    {
+      "type": "unit",
+      "name": "Bravo",
+      "lat": 50.08789971287615,
+      "lng": 21.99391756701374,
+      "symbol": "Infantry",
+      "color": "#4C8FC4"
+    },
+    {
+      "type": "location",
+      "name": "Control_01",
+      "lat": 50.086447586937396,
+      "lng": 21.993571216951466,
+      "symbol": "Supply",
+      "color": "#D94035"
+    },
+    {
+      "type": "location",
+      "name": "Main_Compound",
+      "lat": 50.08771577475849,
+      "lng": 21.99291176734158,
+      "symbol": "Supply",
+      "color": "#D94035"
+    },
+    {
+      "type": "action",
+      "name": "Echo_Breach_Site_01",
+      "lat": 50.08735194512687,
+      "lng": 21.99290364392411,
+      "symbol": "Breach",
+      "color": "#D4AC0D"
+    },
+    {
+      "type": "action",
+      "name": "Breavo_Breach_Site_01",
+      "lat": 50.087986565782415,
+      "lng": 21.993465705019076,
+      "symbol": "Breach",
+      "color": "#4C8FC4"
+    },
+    {
+      "type": "action",
+      "name": "Hold_Exit_01",
+      "lat": 50.0885535777484,
+      "lng": 21.991930955740514,
+      "symbol": "Defend",
+      "color": "#4C8FC4"
+    },
+    {
+      "type": "action",
+      "name": "Hold_Exit_02",
+      "lat": 50.08629877535961,
+      "lng": 21.993333954012,
+      "symbol": "Attack",
+      "color": "#4C8FC4"
+    },
+    {
+      "type": "action",
+      "name": "Find_Intel",
+      "lat": 50.087787124898654,
+      "lng": 21.992739816835666,
+      "symbol": "Objective",
+      "color": "#D75AC8"
+    },
+    {
+      "type": "action",
+      "name": "RV_01",
+      "lat": 50.08777901412708,
+      "lng": 21.992215206343417,
+      "symbol": "Rally",
+      "color": "#D75AC8"
+    }
+  ]
 }
