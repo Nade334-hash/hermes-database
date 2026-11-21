@@ -118,5 +118,29 @@
       "blood": "",
       "nat": ""
     }
+  },
+  {
+    "id": "ECAF-CI-61941-00",
+    "type": "personnel",
+    "classification": "AUTHORIZED",
+    "name": "Applethwaite, Gideon",
+    "alias": "Cinco",
+    "status": "ACTIVE",
+    "aff": "ECAF - Airforce",
+    "role": "IR&TV Sensor operator",
+    "rank": "E-6",
+    "gender": "Male",
+    "intel": "Caucasian male, lean to average frame with mild anterior pelvic tilt and slight thoracic rounding consistent with prolonged seated console operation. No musculoskeletal limitations. Mild bilateral conjunctival injection (eye strain) noted during post-deployment physicals, corrected to 20/20 with standard flight-approved corrective lenses for night vision/display work.\n\nForearm: Multiple Minor superficial scars on dorsal surfaces; skin thickening and burn marks.\nL. Deltoid: Monochromic ink tattoo, approx. 6cm, 5 point compass with the numbers \"30\" inside it.\n\n",
+    "img": "",
+    "stats": {
+      "dob": "14-OCT-1994",
+      "height": "175 cm / 5'9\"",
+      "weight": "73 kg / 161 lbs",
+      "build": "Average",
+      "hair": "Brown",
+      "eyes": "Hazel",
+      "blood": "O NEG",
+      "nat": "British American"
+    }
   }
 ]
